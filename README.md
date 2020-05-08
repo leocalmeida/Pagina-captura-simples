@@ -6,12 +6,12 @@ Just a Simple Capture Page, showing the design of the inscrition page.
 
 ## Tecnologias
 O projeto é criado com:
-* HTML versão: 5
-* CSS vessão: 3
+* HTML 5
+* CSS 3
 
 ## Tecnologies
 The project is created with:
-* HTML version: 5
-* CSS version: 3
+* HTML 5
+* CSS 3
 
 
