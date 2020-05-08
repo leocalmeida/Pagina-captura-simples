@@ -1,0 +1,128 @@
+/* Formatações Gerais */
+/* -------------------------- */
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: black;
+}
+
+.max-width {
+  max-width: 1000px;
+}
+
+.center-page {
+  margin: 0 auto;
+}
+
+.mb {
+  margin-bottom: 20px;
+}
+
+/* inicio formatação header */
+/* -------------------------- */
+.header {
+  margin: 0 auto;
+  background-color: rgb(36, 161, 233);
+  text-align: center;
+  color: white;
+}
+
+/* final formatação header */
+
+/* inicio formatação section */
+/* -------------------------- */
+.section {
+  height: 500px;
+  background-image: url("../images/people.jpg");
+  background-size: cover;
+}
+
+.dados {
+  margin-right: 20px;
+  border-radius: 4px;
+  margin-top: 20px;
+  padding: 20px;
+  float: right;
+  display: inline-block;
+  max-width: 300px;
+  box-sizing: border-box;
+  background-color: #ffffffbb;
+}
+
+.dados input,
+.dados select,
+.dados p {
+  width: 100%;
+  border-radius: 4px;
+}
+
+.dados p {
+  margin-bottom: 10px;
+}
+
+.dados input,
+.dados select {
+  border-style: none;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  height: 40px;
+  padding: 10px;
+}
+
+/* Alterando setinha padrão do select */
+.dados select {
+  -moz-appearance: none;
+  appearance: none;
+  -webkit-appearance: none;
+  background-image: url("../images/arrow.jpg");
+  background-repeat: no-repeat;
+  background-position: calc(100% - 10px) center;
+}
+
+.dados #button {
+  background-color: rgb(36, 161, 233);
+  color: white;
+}
+/* final formatação section */
+
+/* inicio formatação footer */
+/* -------------------------- */
+
+.footer {
+  padding-top: 60px;
+  background-color: rgb(72, 72, 75);
+  height: 300px;
+  padding-bottom: 20px;
+}
+
+.footer .content {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+.foto {
+  box-sizing: border-box;
+}
+.foto img {
+  height: 250px;
+  margin: 0 auto;
+  margin-right: 20px;
+}
+
+.description {
+  max-width: 300px;
+  margin-top: 60px;
+  height: 100%;
+  color: white;
+}
+.description p {
+  text-align: justify;
+}
+
+/* final formatação footer */
