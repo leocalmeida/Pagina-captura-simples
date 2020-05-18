@@ -1,3 +1,6 @@
+[![HTML5](https://img.shields.io/badge/HTML5-ED2C17)](https://www.w3schools.com/html/html_intro.asp)
+[![CSS3](https://img.shields.io/badge/CSS3-003BF9)](https://www.w3schools.com/html/html_intro.asp)
+
 # Página de Captura Simples
 Apenas uma Página simples, demonstrando o layout de uma página de inscrição de pessoas.
 
